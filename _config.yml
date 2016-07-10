@@ -1,6 +1,6 @@
 name: BETONA DIZAINS
 favicon: null
-layout_spectrum: 0.16822
+layout_spectrum: 0.58623
 typography_spectrum: 0.80544
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9690841839183122
-  lightness: 0.8125
-  saturation: 1
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
